@@ -9,5 +9,8 @@
 巧计 [# 網址點我1](https://raw.githubusercontent.com/sem3060/cat/main/qiaoji/qjtvbox.json)
  https://raw.githubusercontent.com/sem3060/cat/main/qiaoji/qjtvbox.json
 
+南风线路 [# 網址點我1](https://raw.githubusercontent.com/sem3060/cat/main/Yoursmile/XC.json)
+https://raw.githubusercontent.com/sem3060/cat/main/Yoursmile/XC.json
+
 多仓版配置接口 [# 網址點我1](https://raw.githubusercontent.com/sem3060/cat/main/hiker_store.json)
  https://raw.githubusercontent.com/sem3060/cat/main/hiker_store.json
