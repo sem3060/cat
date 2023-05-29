@@ -1,8 +1,6 @@
 # cat
 
-香雅情 XYQ
-
-[# 網址點我1](https://raw.githubusercontent.com/sem3060/cat/main/XYQTVBox.json)
+香雅情 XYQ [# 網址點我1](https://raw.githubusercontent.com/sem3060/cat/main/XYQTVBox.json)
 
 
 道长JS
